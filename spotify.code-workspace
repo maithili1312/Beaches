@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Documents/spotify"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Travel Project"
+	}
+}
